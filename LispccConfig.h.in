@@ -1,0 +1,3 @@
+// the configured options and settings for Lispcc
+#define Lispcc_VERSION_MAJOR @Lispcc_VERSION_MAJOR@
+#define Lispcc_VERSION_MINOR @Lispcc_VERSION_MINOR@
